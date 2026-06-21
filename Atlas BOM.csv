@@ -1,10 +1,10 @@
-Atlas BOM,,,,
-,,,,
-Item,Qty,Unit Price ($),Line Total ($),Notes
-Black Felt Sheet,1,$5.07,$5.07,"FC + ESC stack, replaces F722 + separate PDB/PM06"
-Cork Sheet,1,$5.11,$5.11,Runs NDVI pipeline + MAVLink telemetry
-Double Sided Tape,1,$1.28,$1.28,Paired with 680nm bandpass filter for NDVI
-2x2mm Magnet,1,$2.75,$2.75,Battery-to-frame power connectors
-,,,,
-Shipping & Fees,1,$0.60,$0.60,Combined shipping across vendors
-,,Total,$14.81,
+Atlas BOM,,,
+,,,
+Item,Qty,Unit Price ($),Line Total ($)
+Black Felt Sheet,1,$5.07,$5.07
+Cork Sheet,1,$5.11,$5.11
+Double Sided Tape,1,$1.28,$1.28
+2x2mm Magnet,1,$2.75,$2.75
+,,,
+Shipping & Fees,1,$0.60,$0.60
+,,Total,$14.81
