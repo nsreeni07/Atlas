@@ -43,3 +43,16 @@ Onshape Link:[ https://cad.onshape.com/documents/7ff541bd1c8e3a9a7df0cb44/w/9ef5
 <img width="878" height="510" alt="Screenshot 2026-06-20 191511" src="https://github.com/user-attachments/assets/f5256201-8111-4521-ae9c-2a837940ef01" />
 
 <img width="1072" height="552" alt="Screenshot 2026-06-20 191534" src="https://github.com/user-attachments/assets/f7f7e840-f176-4e5e-a1f9-ff2538fcb0dd" />
+
+|Atlas BOM        |FIELD2|FIELD3        |FIELD4        |
+|-----------------|------|--------------|--------------|
+|                 |      |              |              |  
+|Item             |Qty   |Unit Price ($)|Line Total ($)|           
+|Black Felt Sheet |1     |$5.07         |$5.07         |
+|Cork Sheet       |1     |$5.11         |$5.11         |
+|Double Sided Tape|1     |$1.28         |$1.28         |
+|2x2mm Magnet     |1     |$2.75         |$2.75         |
+|                 |      |              |              |                                               
+|Shipping & Fees  |1     |$0.60         |$0.60         |
+|                 |      |Total         |$14.81        | 
+
